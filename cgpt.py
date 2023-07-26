@@ -7,7 +7,7 @@ print ("Enter your text:")
 	
 import openai
 
-openai.api_key = "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"
+openai.api_key = "put api herr"
 
 
 
